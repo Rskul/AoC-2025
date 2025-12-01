@@ -39,3 +39,6 @@
 
 # debug information files
 *.dwo
+
+# dont push input data to github
+*data
